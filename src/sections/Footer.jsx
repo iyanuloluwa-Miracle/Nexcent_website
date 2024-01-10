@@ -1,4 +1,9 @@
-import Achievements from './Achievements'
-import Calendar from './Calendar'
-import Clients from './Clients'
-import Community from './Community'
+import React from 'react'
+
+const Footer = () => {
+  return (
+    <div>Footer</div>
+  )
+}
+
+export default Footer
